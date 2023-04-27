@@ -1,4 +1,4 @@
-# 💫 Hi, there:
+# Hi, there 👋
 
 I am a 17-year-old aspiring Frontend Developer located in Poland, with a keen interest in building user-friendly web applications. My primary focus is on developing applications with React and Next.js, and I am always eager to expand my skillset 😀.
 
